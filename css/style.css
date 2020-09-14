@@ -20,8 +20,13 @@ body{
     grid-gap: 10px;
     grid-template-areas: 'tGreen tRed'
                          'tYellow tBlue';
+/*                         
     height: 700px;
     width: 700px;
+*/
+
+    height: 70vh;
+    width: 70vw;
 
     -webkit-box-shadow: 0px 0px 51px -15px rgba(48,48,48,0.63);
     -moz-box-shadow: 0px 0px 51px -15px rgba(48,48,48,0.63);
